@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🤖 RPA Project Estimator 2026 - Complete Documentation
 
 ## Table of Contents
