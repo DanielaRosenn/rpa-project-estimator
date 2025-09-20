@@ -1,10 +1,12 @@
-# Python-generated files
+.venv/
 __pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
-
-# Virtual environments
-.venv
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.xlsx
+*.xls
+.streamlit/
+*.log
+.env
+uv.lockgit add .gitignore
